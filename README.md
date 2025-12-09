@@ -1,6 +1,15 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saladandonionrings&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saladandonionrings&theme=dark)](https://git.io/streak-stats)
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRraWg2c2owNzB1Zm9lcDVzZzNtcDVucjlsZW0wNmEzZ3FpaXNiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dB6dXkB8z5VqyPrKZg/giphy.gif" width="120px" alt="jack skellington">
+  <br>
+  
+  <img src="https://count.getloli.com/get/@:saladandonionrings?darkmode=0" alt="Profile views counter"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=py,js,html,bash,git" alt="My Tech Stack">
+  <br>
+  <br>
+  
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=saladandonionrings&data=followers,repositories,stars&theme=darkmode" width="500" alt="GitHub Stats">
+  <br>
+</div>
 
-- 🔭 I’m currently working on Pentesting tools
